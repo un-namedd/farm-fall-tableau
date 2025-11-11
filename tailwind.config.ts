@@ -47,6 +47,10 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        betrayal: "hsl(var(--betrayal))",
+        corruption: "hsl(var(--corruption))",
+        hopeFaded: "hsl(var(--hope-faded))",
+        propaganda: "hsl(var(--propaganda))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
