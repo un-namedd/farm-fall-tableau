@@ -130,9 +130,10 @@ const Index = () => {
             <CardContent className="p-8">
               <p className="text-card-foreground leading-relaxed text-lg">
                 I picked <em>Animal Farm</em> because it doesn't sugarcoat what can happen when good ideas run into real life and power takes <strong>over</strong>. At first, everyone wants <strong className="text-primary">equality and freedom</strong> and honestly it sounds so so great. But when I see the pigs slowly twist those dreams into their own advantage really made me question how revolutions work in the real world. The book doesn't just point fingers at “look!!! bad guys”, it shows how easy it is for anyone with enough power (and a sharp tongue, like Squealer ;)! ) to <strong className="text-propaganda">rewrite the rules</strong> and <strong className="text-propaganda">convince</strong> others everything's fine, even when it isn't actually fine.
-              </p>
-            </CardContent>
-          </Card>
+            </p>
+          </CardContent>
+        </Card>
+        </motion.div>
         </div>
       </section>
 
@@ -265,9 +266,11 @@ const Index = () => {
             <CardContent className="p-8">
               <p className="text-card-foreground leading-relaxed">
                 Things get messy almost instantly, a lot of it is because Snowball invents stuff (like the windmill) and Napoleon just wants to keep <strong className="text-propaganda">control and survive</strong>. The whole group is supposed to build something new, but the pigs start <strong className="text-betrayal">picking up all of the bad habits</strong> from humans, and the idea of “equality” just kind of fades away.
-              </p>
-            </CardContent>
-          </Card>
+            </p>
+          </CardContent>
+        </Card>
+        </motion.div>
+        </motion.div>
         </div>
       </section>
 
@@ -540,9 +543,14 @@ const Index = () => {
               <div className="mt-6 text-right">
                 <p className="text-card-foreground italic">With endless sorrow,</p>
                 <p className="text-muted-foreground">A Friend, Fellow, and Comrade.</p>
-              </div>
-            </CardContent>
-          </Card>
+            </div>
+          </CardContent>
+        </Card>
+        </motion.div>
+        </motion.div>
+        </motion.div>
+        </motion.div>
+        </motion.div>
         </div>
       </section>
 
